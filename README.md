@@ -1,3 +1,3 @@
 # ZeusSMP
 
-https://add.aternos.org/ZeusSMP
+https://add.aternos.org/ZeusSMP2
